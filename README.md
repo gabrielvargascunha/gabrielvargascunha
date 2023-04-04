@@ -5,8 +5,8 @@ estou estudando sobre desenvolvimento de projetos com uso de tecnologias Mobile 
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvargascunha&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvargascunhashow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielvargascunharepo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielvargascunha&repo=Tik-Tok-clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
